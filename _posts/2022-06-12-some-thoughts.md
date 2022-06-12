@@ -17,3 +17,5 @@ title: some thoughts
 
 【年轻人要敢赌敢拼，输了大不了从头再来；赢了就是一座金山。】
 【粗粗记一笔先。还有很多地方可以展开，在想要不要做一个系列。毕竟，程序都写了。】
+
+![some-thoughts](/assets/img/post-2022-06-12-some-thoughts.jpg "运行结果参考")
