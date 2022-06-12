@@ -24,7 +24,7 @@
 	<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdn.bootcss.com/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://cdn.bootcss.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-
+	<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   </head>
   <body>
     <div class="d3container">
@@ -103,6 +103,9 @@
 					</div>
 				</div>
 				<div class="modal-footer">
+					<span style='display:none'>
+						本页总访问量<span id="busuanzi_value_page_pv"></span>次
+					</span>
 					<button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
 					<button type="button" class="btn btn-primary" onclick="start_game_simulate();">提交更改</button>
 				</div>
