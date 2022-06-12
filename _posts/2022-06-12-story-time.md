@@ -8,6 +8,6 @@ title: story time
 
 好，此次大赛的结果已经在我的手上了。他们分别是：38/1000的选手获得了win称号，让我们恭喜他们；第二个要揭晓的是，839/1000的选手获得了loss称号，也恭喜他们；最后是123/1000的选手获得了pending称号，祝贺他们。祝贺各位参赛选手取得的优异成绩，希望他们在以后的比赛中都能赛出水平，赛出风格。我们的第一届NPC抛金币模拟大赛也到此结束了。感谢您的光临，祝您晚安。让我们一起期待下一届抛金币大赛早日到来吧。谢谢。谢谢大家。谢谢。
 
-![story-time-win]({{site.url}}/assets/img/post-2022-06-12-story-time-1.jpg "运行结果参考1: win")
-![story-time-loss]({{site.url}}/assets/img/post-2022-06-12-story-time-2.jpg "运行结果参考2: loss")
-![story-time-pending]({{site.url}}/assets/img/post-2022-06-12-story-time-3.jpg "运行结果参考3: pending")
+![story-time-win](/{{site.baseurl}}/assets/img/post-2022-06-12-story-time-1.jpg "运行结果参考1: win")
+![story-time-loss](/{{site.baseurl}}/assets/img/post-2022-06-12-story-time-2.jpg "运行结果参考2: loss")
+![story-time-pending](/{{site.baseurl}}/assets/img/post-2022-06-12-story-time-3.jpg "运行结果参考3: pending")

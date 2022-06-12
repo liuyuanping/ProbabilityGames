@@ -9,7 +9,7 @@ If you have any problem, please contact me at any time.
 
 Oops, please wait a minute.
 
-![some-thoughts]({{site.url}}/assets/img/post-2022-06-12-some-thoughts.jpg "运行结果参考")
+![some-thoughts](/{{site.baseurl}}/assets/img/post-2022-06-12-some-thoughts.jpg "运行结果参考")
 
 
 ### Post List
